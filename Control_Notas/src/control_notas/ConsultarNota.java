@@ -48,7 +48,7 @@ public class ConsultarNota extends javax.swing.JFrame {
 
         jLabel3.setText("Carnet");
 
-        jLabel4.setText("Semestre");
+        jLabel4.setText("Bimestre");
 
         jTable1.setModel(new javax.swing.table.DefaultTableModel(
             new Object [][] {

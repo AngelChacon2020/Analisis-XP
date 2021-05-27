@@ -87,7 +87,7 @@ public class AsigCatedratico extends javax.swing.JFrame {
 
         jLabel6.setText("Correo");
 
-        jLabel7.setText("Semestre");
+        jLabel7.setText("Bimestre");
 
         jButton1.setText("Asignar Curso");
 
@@ -128,7 +128,7 @@ public class AsigCatedratico extends javax.swing.JFrame {
                     .addGroup(jPanel1Layout.createSequentialGroup()
                         .addGap(124, 124, 124)
                         .addComponent(jScrollPane2, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)))
-                .addContainerGap(59, Short.MAX_VALUE))
+                .addContainerGap(64, Short.MAX_VALUE))
             .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel1Layout.createSequentialGroup()
                 .addGap(0, 0, Short.MAX_VALUE)
                 .addComponent(jLabel1)

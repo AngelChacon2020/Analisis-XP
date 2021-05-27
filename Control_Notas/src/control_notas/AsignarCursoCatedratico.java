@@ -69,7 +69,7 @@ public class AsignarCursoCatedratico extends javax.swing.JFrame {
 
         jLabel4.setText("Codigo Catedratico");
 
-        jLabel6.setText("Semeste");
+        jLabel6.setText("Bimestre");
 
         jTable2.setModel(new javax.swing.table.DefaultTableModel(
             new Object [][] {
